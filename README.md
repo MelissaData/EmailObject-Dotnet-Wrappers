@@ -19,8 +19,8 @@ For further details, please visit: https://docs.melissa.com/on-premise-api/email
 
 ### Download this project
 ```
-git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/net/melissaemailobjectnetwrappers.git
-cd melissaemailobjectnetwrappers
+git clone https://github.com/MelissaData/EmailObject-Dotnet-Wrappers
+cd EmailObject-Dotnet-Wrappers
 ```
 
 ### Copy wrappers to your project folder
